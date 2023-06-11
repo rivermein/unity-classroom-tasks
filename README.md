@@ -6,7 +6,7 @@ So. Uh. The task.
 
 <b>Describe some best practices for organising your Unity project</b>
 
-A good practice when organising your UInity project is to keep things in different directories; your sprites in a 'sprites' directory and your scripts in a 'scripts' directory. This makes finding your bits and pieces easier, as they have a designated place where they should be.
+A good practice when organising your Unity project is to keep things in different directories; your sprites in a 'sprites' directory and your scripts in a 'scripts' directory. This makes finding your bits and pieces easier, as they have a designated place where they should be.
 
 <b>Explain the concept of GameObjects & Components, & how they are related.</b>
 
